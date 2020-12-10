@@ -1,5 +1,5 @@
 def Pilih():
-    Pilihan =  input()
+    Pilihan =  (input())
     if Pilihan == "1":
         Segitiga()
     elif Pilihan == "2":
